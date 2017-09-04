@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="light_success">#8BC34A</color>
+    <color name="success_bootstrap">#5cb85c</color>
+    <color name="primary_bootstrap">#428bca</color>
+    <color name="info_bootstrap">#5bc0de</color>
+    <color name="danger_bootstrap">#d9534f</color>
+    <color name="default_bootstrap">#f9f9f9</color>
+    <color name="pink_bootstrap">#F9A7D8</color>
+    <color name="pinkdark_bootstrap">#ffc24793</color>
+    <color name="img_viewer_bg">#009CD8</color>
+
+
+    <color name="my_gray">#B1BCBE</color>
+    <color name="dark_gray">#E5E5E5</color>
+    <color name="dark_gray_dark">#808080</color>
+
+    <color name="custom_primary">#736EFE</color>
+    <color name="pink_modified">#9e79a6</color>
+    <color name="blue_modified">#7c97cd</color>
+
+    <color name="material_purple">#9b59b6</color>
+    <color name="material_danger">#FF5252</color>
+    <color name="material_primary">#2396F1</color>
+    <color name="material_success">#2ecc71</color>
+</resources>
