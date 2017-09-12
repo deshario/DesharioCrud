@@ -101,4 +101,5 @@ public class DBHandler extends SQLiteOpenHelper{
         SQLiteDatabase db = this.getWritableDatabase();
         db.execSQL(sql);
     }
+
 }

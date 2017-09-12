@@ -40,6 +40,7 @@ public class Update extends AppCompatActivity {
         et_nickname = (EditText)view.findViewById(R.id.nickname);
         et_email = (EditText)view.findViewById(R.id.email);
         btn_update = (Button)findViewById(R.id.save);
+        btn_update.setText("Update");
 
         Intent intent = getIntent();
         Bundle bundle = intent.getExtras();

@@ -14,14 +14,14 @@
         android:layout_height="wrap_content"
         android:text="Deshario Crud"
         android:textSize="20sp"
-        android:layout_marginTop="-30dp"/>
+        android:layout_marginTop="-60dp"/>
 
     <Button
         android:id="@+id/create"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/primary_bootstrap"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="30dp"
         android:text="Create"
         android:textSize="18sp"
         android:textColor="@color/default_bootstrap"/>
